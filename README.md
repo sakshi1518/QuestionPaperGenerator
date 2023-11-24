@@ -41,6 +41,7 @@ Create a .env file in the root of your project to store environment variables (i
 
 ## Development
 Start the Development Server:
-
+```
 npm i
 npm run start
+```
