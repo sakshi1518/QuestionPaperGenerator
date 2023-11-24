@@ -34,7 +34,7 @@ Install project dependencies using npm:
 `npm i`
 
 #### Environment Variables:
-Create a .env file in the root of your project to store environment variables (if applicable).
+Create a .env file in the root of your project to store environment variables.
 
 `PORT=3000`
 `DATABASE_URL=mongodb://localhost:27017/mydatabase`
